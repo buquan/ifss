@@ -4,7 +4,7 @@ import { Card, Space, Image, Button as AntdButton } from 'antd';
 const MyProCard: React.FC = () => (
   <Space direction="vertical" size={16}>
     <Card title="Default size card" extra={<a href="#">More</a>} style={{ width: 300 }}>
-      <p> MyProCard Card content123</p>
+      <p> MyProCard Card content123456</p>
       <p> MyProCard Card content</p>
       <p> MyProCard Card content</p>
     </Card>
